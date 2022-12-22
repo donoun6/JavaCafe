@@ -2,7 +2,6 @@
 
 # ⚠️Java Cafe
 > ### *카페 키오스크 구현 << JAVA CAFE >>*
-> 카페 키오스크 구현
 </br>
 
 ![스크린샷_20221202_042050](https://user-images.githubusercontent.com/95620922/209083278-6ec8ce2a-8b1b-442d-80a1-59f1ec056da7.png)
