@@ -1,12 +1,11 @@
-# ### *PROJECT*
+# ### *스마트웹 응용 소프트웨어 개발자 양성 과정 - 개인 PROJECT*
 
 # ⚠️Java Cafe
 > ### *카페 키오스크 구현 << JAVA CAFE >>*
 > 카페 키오스크 구현
 </br>
 
-<img width="100%" src="https://user-images.githubusercontent.com/75259593/204475066-3794ce96-a2dd-4fdc-8a5f-9bb6b2cc30f6.png"/>
-<img width="100%" src="https://user-images.githubusercontent.com/75259593/203497317-caf59308-9af5-4ecc-8b6c-8228128639bb.png"/>
+![스크린샷_20221202_042050](https://user-images.githubusercontent.com/95620922/209083278-6ec8ce2a-8b1b-442d-80a1-59f1ec056da7.png)
 </br>
 
 ------
